@@ -1,8 +1,9 @@
 package main
 
 import (
-	echopprof "github.com/sevenNt/echo-pprof"
 	"github.com/labstack/echo/v4"
+
+	echopprof "github.com/ChipArtem/echo-pprof"
 )
 
 func main() {
